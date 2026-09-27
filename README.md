@@ -1,4 +1,4 @@
-🚀 Module 3 Successfully Completed | Python Data & APIs
+🚀 Module 4 Successfully Completed | Python Data & APIs
 I’m happy to share that I have successfully completed Module 3 of my CodeMax internship, focused on Python Data & APIs! 🎉
 
 During this module, I worked on:
